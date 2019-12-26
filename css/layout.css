@@ -324,88 +324,192 @@ ul#nav li.current a { color: #F06000; }
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
-/* 
-.photoshop {
+
+.changemanagement {
   	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: changemanagement 2s ease;
+  	-webkit-animation: changemanagement 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+.motivatingstaff {
+  	width: 75%;
+  	-moz-animation: motivatingstaff 2s ease;
+  	-webkit-animation: motivatingstaff 2s ease;
 }
-.wordpress {
+.managingstakeholder {
   	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+  	-moz-animation: managingstakeholder 2s ease;
+  	-webkit-animation: managingstakeholder 2s ease;
 }
-.css {
+.msprojectpractitioner {
   	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: msprojectpractitioner 2s ease;
+  	-webkit-animation: msprojectpractitioner 2s ease;
 }
-.html5 {
+.projectplanning {
   	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: projectplanning 2s ease;
+  	-webkit-animation: projectplanning 2s ease;
 }
-.jquery {
+.contractadministration {
   	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: contractadministration 2s ease;
+  	-webkit-animation: contractadministration 2s ease;
+}
+.qualitymanagement {
+   width: 75%;
+   -moz-animation: qualitymanagement 2s ease;
+   -webkit-animation: qualitymanagement 2s ease;
+}
+.identifyingkeyissues {
+   width: 85%;
+   -moz-animation: identifyingkeyissues 2s ease;
+   -webkit-animation: identifyingkeyissues 2s ease;
+}
+.estimatingcosts {
+   width: 90%;
+   -moz-animation: estimatingcosts 2s ease;
+   -webkit-animation: estimatingcosts 2s ease;
+}
+.budgetarycontrol {
+   width: 82%;
+   -moz-animation: budgetarycontrol 2s ease;
+   -webkit-animation: budgetarycontrol 2s ease;
+}
+.commercialexperience {
+   width: 92%;
+   -moz-animation: commercialexperience 2s ease;
+   -webkit-animation: commercialexperience 2s ease;
+}
+.informationgathering {
+   width: 97%;
+   -moz-animation: informationgathering 2s ease;
+   -webkit-animation: informationgathering 2s ease;
+}
+.riskmanagement {
+   width: 72%;
+   -moz-animation: riskmanagement 2s ease;
+   -webkit-animation: riskmanagement 2s ease;
+}
+.strategicthinking {
+   width: 99%;
+   -moz-animation: strategicthinking 2s ease;
+   -webkit-animation: strategicthinking 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes changemanagement {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes motivatingstaff {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 75%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes managingstakeholder {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-moz-keyframes css {
+@-moz-keyframes msprojectpractitioner {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes projectplanning {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes contractadministration {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
+@-moz-keyframes qualitymanagement {
+   0%   { width: 0px;  }
+   100% { width: 75%;  }
+}
+@-moz-keyframes identifyingkeyissues {
+   0%   { width: 0px;  }
+   100% { width: 85%;  }
+}
+@-moz-keyframes estimatingcosts {
+   0%   { width: 0px;  }
+   100% { width: 90%;  }
+}
+@-moz-keyframes budgetarycontrol {
+   0%   { width: 0px;  }
+   100% { width: 82%;  }
+}
+@-moz-keyframes commercialexperience {
+   0%   { width: 0px;  }
+   100% { width: 92%;  }
+}
+@-moz-keyframes informationgathering {
+   0%   { width: 0px;  }
+   100% { width: 97%;  }
+}
+@-moz-keyframes riskmanagement {
+   0%   { width: 0px;  }
+   100% { width: 72%;  }
+}
+@-moz-keyframes strategicthinking {
+   0%   { width: 0px;  }
+   100% { width: 99%;  }
+}
 
-@-webkit-keyframes photoshop {
+
+@-webkit-keyframes changemanagement {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
+@-webkit-keyframes motivatingstaff {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 75%;  }
 }
-@-webkit-keyframes wordpress {
+@-webkit-keyframes managingstakeholder {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes css {
+@-webkit-keyframes msprojectpractitioner {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes projectplanning {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes contractadministration {
   0%   { width: 0px;  }
   100% { width: 50%;  }
-} */
-
+} 
+@-webkit-keyframes qualitymanagement {
+   0%   { width: 0px;  }
+   100% { width: 75%;  }
+} 
+@-webkit-keyframes identifyingkeyissues {
+   0%   { width: 0px;  }
+   100% { width: 85%;  }
+} 
+@-webkit-keyframes estimatingcosts {
+   0%   { width: 0px;  }
+   100% { width: 90%;  }
+} 
+@-webkit-keyframes budgetarycontrol {
+   0%   { width: 0px;  }
+   100% { width: 82%;  }
+} 
+@-webkit-keyframes commercialexperience {
+   0%   { width: 0px;  }
+   100% { width: 92%;  }
+} 
+@-webkit-keyframes informationgathering {
+   0%   { width: 0px;  }
+   100% { width: 97%;  }
+} 
+@-webkit-keyframes riskmanagement {
+   0%   { width: 0px;  }
+   100% { width: 72%;  }
+} 
+@-webkit-keyframes strategicthinking {
+   0%   { width: 0px;  }
+   100% { width: 99%;  }
+} 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
